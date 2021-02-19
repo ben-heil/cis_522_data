@@ -1,4 +1,8 @@
-# kaggle_pokemon_data
-A repo for storing a subset of this kaggle dataset for easier access: https://www.kaggle.com/lantian773030/pokemonclassification
+# CIS_522_data
 
-The images belong to their original creators, and are being used for educational purposes
+This repo stores datasets used in the transfer learning/computer vision lecture of CIS-522 at Penn.
+
+`archive.tar.gz` stores a subset of [this kaggle dataset](https://www.kaggle.com/lantian773030/pokemonclassification) for easier access.
+
+`faces.tar.gz` stores a subset of [CASIA-Webface](http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html).
+
